@@ -1,6 +1,6 @@
 ---
 title: "CV"
-permalink: /files/dummy_cv.pdf
+permalink: /files/cv.pdf
 author_profile: true
 redirect_from:
   - /resume
