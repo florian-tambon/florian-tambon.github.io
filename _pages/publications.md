@@ -9,7 +9,7 @@ author_profile: true
 
 # 2025
 
-**Tambon, F.**, Moradi-Dakhel, A., Nikanjam, A., Khomh, F., Desmarais, M., Antoniol, G. (2025). Bugs in Large Language Models Generated Code: An Empirical Study. arXiv preprint arXiv:2403.08937 [Preprint](https://arxiv.org/abs/2403.08937)
+**Tambon, F.**, Moradi-Dakhel, A., Nikanjam, A. et al. Bugs in large language models generated code: an empirical study. Empir Software Eng 30, 65 (2025). https://doi.org/10.1007/s10664-025-10614-4. [Paper](https://link.springer.com/article/10.1007/s10664-025-10614-4),[Preprint](https://arxiv.org/abs/2403.08937)
 
 # 2024
 
