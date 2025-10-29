@@ -9,6 +9,8 @@ author_profile: true
 
 # 2025
 
+**Tambon, F.**, Nikanjam, A., Zid, C., Khomh, F., Antoniol, G. (2025) TaskEval: Assessing Difficulty of Code Generation Tasks for Large Language Models. ACM Transactions on Software Engineering and Methodology. [Paper](https://doi.org/10.1145/3773285), [Preprint](https://arxiv.org/abs/2407.21227)
+
 **Tambon, F.**, Moradi-Dakhel, A., Nikanjam, A. et al. Bugs in large language models generated code: an empirical study. Empir Software Eng 30, 65 (2025). https://doi.org/10.1007/s10664-025-10614-4. [Paper](https://link.springer.com/article/10.1007/s10664-025-10614-4),[Preprint](https://arxiv.org/abs/2403.08937)
 
 # 2024
