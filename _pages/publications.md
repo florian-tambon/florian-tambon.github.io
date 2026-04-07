@@ -7,7 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+# 2026
+
+**Tambon, F.**, Papadakis, M. (2026). (Under Review) Inferring Code Correctness from Specification [Preprint](/files/inference_code_correctness.pdf)
+
 # 2025
+
+Djilani, M., Simonetto, T., Tit, K., **Tambon, F.**, ... & Papadakis, M. (2025). On the robustness of tabular foundation models: Test-time attacks and in-context defenses. arXiv preprint arXiv:2506.02978. (Accepted at SatML 2026). [Preprint](https://arxiv.org/pdf/2506.02978)
 
 **Tambon, F.**, Nikanjam, A., Zid, C., Khomh, F., Antoniol, G. (2025) TaskEval: Assessing Difficulty of Code Generation Tasks for Large Language Models. ACM Transactions on Software Engineering and Methodology. [Paper](https://doi.org/10.1145/3773285), [Preprint](https://arxiv.org/abs/2407.21227)
 
